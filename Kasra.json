@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "coefficient": 1.7,
+        "answer": "Paris",
+        "level": "Medium",
+        "type": "Multiple Choice",
+        "g1": "Paris",
+        "g2": "London",
+        "g3": "Berlin",
+        "g4": "Rome",
+        "grouping_Dtos": [
+            {
+                "id": 5,
+                "group": "Geography",
+                "subgroup": "European Capitals",
+                "lesson": "Countries and Capitals",
+                "season": "Summer",
+                "subSeason": "Week 1"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is the largest planet in our solar system?",
+        "coefficient": 2,
+        "answer": "Jupiter",
+        "level": "Medium",
+        "type": "Multiple Choice",
+        "g1": "Mars",
+        "g2": "Venus",
+        "g3": "Saturn",
+        "g4": "Jupiter",
+        "grouping_Dtos": [
+            {
+                "id": 2,
+                "group": "History",
+                "subgroup": "World History",
+                "lesson": "Ancient Civilizations",
+                "season": "Winter",
+                "subSeason": "Week 2"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What is the square root of 25?",
+        "coefficient": 2.2,
+        "answer": "5",
+        "level": "Medium",
+        "type": "Multiple Choice",
+        "g1": "5",
+        "g2": "4",
+        "g3": "6",
+        "g4": "8",
+        "grouping_Dtos": [
+            {
+                "id": 4,
+                "group": "Math",
+                "subgroup": "Algebra",
+                "lesson": "Square Roots",
+                "season": "Spring",
+                "subSeason": "Chapter 3"
+            }
+        ]
+    }
+]
